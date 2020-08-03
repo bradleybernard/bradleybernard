@@ -6,7 +6,6 @@
 
 👯 I’m looking to collaborate with passionate driven individuals who want to develop a delightful and well crafted web or mobile application (Web or Mobile) that users will fall in love with!
 
-📫 How to reach me: Email, LinkedIn, or Twitter :)
+📫 How to reach me: Email, LinkedIn, or Twitter
 
-📖 Check out my blog on [Medium](https://blog.bradleybernard.com/)
-
+📖 In the meantime, check out my blog on [Medium](https://blog.bradleybernard.com/)!
