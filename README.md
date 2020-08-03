@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋👋
 
 🔭 I'm currently working at LinkedIn working specifically on the [flagship iOS app](https://apps.apple.com/gb/app/linkedin-job-search-news/id288429040) on the Careers mobile team. 
 
