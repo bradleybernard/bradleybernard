@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning [SwiftUI](https://developer.apple.com/xcode/swiftui/) and [Combine](https://developer.apple.com/documentation/combine) on the mobile side. On web, I'm learning [Laravel](https://laravel.com/docs/7.x), [Vue.js](https://vuejs.org/), [Tailwind CSS](https://tailwindcss.com/) along with web tooling/bundlers.
 
-👯 I’m looking to collaborate with passionate driven individuals who want to develop a delightful and well crafted web or mobile application (Web or Mobile) that users will fall in love with!
+👯 I’m looking to collaborate with passionate driven individuals who want to develop a delightful and well crafted web or mobile application that users will fall in love with!
 
 📫 How to reach me: Email, LinkedIn, or Twitter
 
