@@ -1,6 +1,6 @@
 ### Hey there 👋👋
 
-🔭 I'm currently working at LinkedIn working specifically on the [flagship iOS app](https://apps.apple.com/gb/app/linkedin-job-search-news/id288429040) on the Careers mobile team. 
+🔭 I'm currently working at LinkedIn  on the [flagship iOS app](https://apps.apple.com/gb/app/linkedin-job-search-news/id288429040) on the Careers mobile team. 
 
 🌱 I’m currently learning [SwiftUI](https://developer.apple.com/xcode/swiftui/) and [Combine](https://developer.apple.com/documentation/combine) on the mobile side. On web, I'm learning [Laravel](https://laravel.com/docs/7.x), [Vue.js](https://vuejs.org/), [Tailwind CSS](https://tailwindcss.com/) along with web tooling/bundlers.
 
