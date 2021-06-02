@@ -1,6 +1,6 @@
 ### `README.md`
 
-🔭 I'm currently working at LinkedIn on the [flagship iOS app](https://apps.apple.com/gb/app/linkedin-job-search-news/id288429040). 
+🔭 I'm currently working as a Software Engineer at Facebook.
 
 🌱 I’m learning [SwiftUI](https://developer.apple.com/xcode/swiftui/) and [Combine](https://developer.apple.com/documentation/combine) for mobile. On web, I'm learning [Laravel](https://laravel.com/docs), [Vue.js](https://vuejs.org/), [Tailwind CSS](https://tailwindcss.com/) along with web tooling/bundlers.
 
