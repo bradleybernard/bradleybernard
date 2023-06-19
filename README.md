@@ -5,5 +5,5 @@
   -  Unnamed - AI chat iOS app 
 - 🌱 I’m currently learning: Laravel, Vue.js, SwiftUI, and AI
 - 🎤 I'm sharing my indie-hacker journey on Twitter: [@bradleybernard](https://twitter.com/bradleybernard)
-- 💬 Ask me about my tech stacks, business tools, product design, or anything else!
+- 💬 Ask me about my projects' tech stacks, business tools, product design, or anything else!
 - 📫 How to reach me: Twitter [@bradleybernard](https://twitter.com/bradleybernard)), [LinkedIn](https://linkedin.com/in/bradleybernard) 
